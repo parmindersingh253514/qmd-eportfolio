@@ -1,0 +1,78 @@
+---
+title: "Information Literacy"
+bibliography: references.bib
+---
+
+## Overview
+
+This section is the reflective description of my information literacy growth in relation to my capability to do effective academic and professional searches, evaluate the sources and pose clear research questions to direct literature reviews. These competencies are central to academic practice and evidence-informed decision-making in higher education and professional contexts [@Muir2023; @JISC2023].
+
+## Reflection
+
+### What I Have Learned
+
+Throughout my programme, I have developed a structured approach to locating, evaluating, and synthesising information from a range of academic and professional sources. Key areas of learning include:
+
+- **Library databases and search strategies**: I have learned to use subject-specific databases effectively, selecting appropriate keywords and controlled vocabulary to improve search precision and recall [@Muir2023].
+- **Boolean operators and query formulation**: Applying Boolean logic (AND, OR, NOT) and advanced search filters has enabled me to refine searches and manage large result sets more efficiently.
+- **Source evaluation and credibility assessment**: I have developed greater awareness of criteria such as authorship, publication venue, methodology, and citation patterns when assessing the reliability and relevance of sources [@Bloom2020].
+- **Literature review processes**: I have learned to synthesise findings across multiple studies, identify themes and gaps in the literature, and position sources within an academic argument [@Creswell2018].
+
+These skills have been applied in coursework and research tasks, improving the quality, coherence, and academic rigour of my written work.
+
+### Research Question Framework
+
+To support structured inquiry, I have used established research question frameworks such as PICO (Population, Intervention, Comparison, Outcome), particularly when engaging with applied or evidence-based research [@Sackett1996].
+
+- **Strengths**: The framework encourages clarity, focus, and alignment between the research question and search strategy, which supports systematic literature searching.
+- **Weaknesses**: PICO can be restrictive when applied to exploratory or qualitative research, where research questions may need to remain flexible and emergent.
+- **Practical application**: Using PICO has helped me translate broad topics into manageable research questions, improving the relevance and efficiency of database searches.
+
+Engaging with such frameworks has reinforced the importance of methodological alignment between research questions, search strategies, and evaluation criteria [@Creswell2018].
+
+### Challenges and Insights
+
+The greatest problem has been handling information overload especially when search results yield a great amount of information that is of different quality. Developing effective filtering strategies and applying critical evaluation criteria has been essential in addressing this issue [@Muir2023].
+
+Other complications consist of paywalled access to resources, time management when conducting the literature review. Reflective engagement with these challenges has highlighted the importance of self-regulated learning strategies, such as planning, monitoring progress, and adapting approaches when necessary [@Zimmerman2002].
+
+Another important learning has been the realization that information literacy is not a one-time skill set that requires no further development, but a practice that must constantly be practiced through the continual development of tools, databases, and academic criteria.
+
+## Self-Assessment
+
+### Current Searching Skills Level
+
+**Self-assessed proficiency (novice → intermediate → advanced → expert):**
+
+- **Library database searching**: Intermediate  
+  - *Strengths*: Keyword selection, use of filters, database navigation  
+  - *Areas for development*: Advanced subject headings and citation chaining  
+
+- **Source evaluation**: Intermediate  
+  - *Strengths*: Assessing credibility, relevance, and methodological quality  
+  - *Areas for development*: Faster critical appraisal of complex studies  
+
+- **Research question formulation**: Intermediate  
+  - *Strengths*: Structured frameworks, clarity of focus  
+  - *Areas for development*: Refining questions for qualitative and mixed-methods research  
+
+This self-assessment reflects the value of reflective self-evaluation in identifying strengths and areas for further development [@Baume2007].
+
+### Skill Improvement
+
+Since starting my programme, I have moved from relying on general web searches toward systematic use of academic databases, improved my ability to judge source quality, and gained confidence in shaping researchable questions that guide effective literature reviews.
+
+## Forward Plan
+
+### Development Plan (Next 3–12 Months)
+
+- **Key skills to develop**: Advanced database searching techniques, citation tracking, and critical synthesis of complex literature.
+- **Academic and career relevance**: Strengthening these skills will support dissertation work and enhance my ability to engage with evidence-based practice in professional contexts [@Sackett1996].
+- **Learning resources and workshops**: Library-led training sessions, online research skills modules, and continued guided practice in academic writing.
+
+This forward plan aligns with a growth-oriented approach to learning and supports the ongoing development of information literacy as a core graduate and professional attribute [@Dweck2006; @JISC2023].
+
+## References
+
+::: {#refs}
+:::

@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Parminder Singh - Professional e-Portfolio \nSQ4003 - Professional and Study Skills"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: 01-enterprise-authoring.qmd
+        text: Enterprise Authoring Tools
+      - href: 02-information-literacy.qmd
+        text: Information Literacy
+      - href: 03-coding-collaboration.qmd
+        text: Coding & Collaboration
+      - href: 04-cpd.qmd
+        text: CPD
+      - href: 05-responsible-ai.qmd
+        text: Responsible AI
+    right:
+      - icon: github
+        href: https://github.com/
+      - icon: linkedin
+        href: https://linkedin.com/
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    number-sections: true
+    code-fold: false

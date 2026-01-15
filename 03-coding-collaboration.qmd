@@ -1,0 +1,77 @@
+---
+title: "Coding and Collaboration Platforms"
+bibliography: references.bib
+---
+
+## Overview
+
+In this section, I will present a reflective report on how I have learned and developed through the application of Git, GitHub and GitHub Pages as a piece of coding and collaboration platforms. It discusses how these tools facilitate version control, collaborative development processes and professional development of software and the technical concepts that it is based on. These platforms are widely recognised as foundational to collaborative digital work and software engineering [@Spinellis2005; @GitHub2024].
+
+## Reflection
+
+### What I Have Learned
+
+Through coursework and practical experimentation, I have developed an understanding of both the practical and conceptual aspects of version control and collaborative development:
+
+- **Git repositories and version control**: I have learned how Git records changes over time, enabling safe experimentation, rollback, and transparent tracking of contributions [@Spinellis2005].
+- **Git workflows and collaboration**: I have used branching and merging to support parallel development, enabling multiple contributors to work on the same project without overwriting each other’s changes.
+- **GitHub Pages publishing**: I have learned to publish static websites directly from repositories, supporting portfolio development and public dissemination of work.
+- **Command-line Git usage**: Using Git via the command line has improved my understanding of core version control concepts and increased confidence in navigating development environments.
+- **Applied projects**: These skills have been applied in individual and group projects, reinforcing the connection between technical knowledge and real-world collaborative practice.
+
+### Technical Understanding
+
+Developing technical literacy in Git has required understanding its underlying data model and operational logic:
+
+- **Git data structures**: Git stores data as objects, including *blobs* (file contents), *trees* (directory structures), and *commits* (snapshots of the project history). References, branches, and `HEAD` enable navigation and manipulation of project states [@Spinellis2005].
+- **Essential commands**: Core commands such as `init`, `add`, `commit`, `push`, `pull`, `branch`, `merge`, and `clone` support the full lifecycle of local and remote version control [@GitHub2024].
+- **Workflow model**: Understanding the movement of changes from the working directory to the staging area, local repository, and remote repository has clarified how Git enforces deliberate and traceable change management.
+
+This conceptual understanding has improved my ability to diagnose errors and resolve conflicts when they arise.
+
+### Collaboration and Challenges
+
+Git and GitHub also have particularly important features related to collaborative work, such as a detailed record of changes, the possibility to roll back to an earlier version, and parallel development. These features are particularly valuable in collaborative and interdisciplinary projects, where transparency and accountability are essential [@Cheshire2013].
+
+Nevertheless, there have been difficulties such as struggling with conflict management in merging, anxiety stemming when working on a command line and team coordination. The solution to these challenges has involved effective communication, similar conventions, and meditated problem-solving. This, over time, has made me confident about the value of working in a technical environment in which I collaborate with others, and the importance of a structured version control system.
+
+## Self-Assessment
+
+### Git and GitHub Proficiency Level
+
+**Self-assessed proficiency (novice → intermediate → advanced → expert):**
+
+- **Git fundamentals (commit, push, pull, branch)**: Intermediate  
+  - *Strengths*: Consistent committing, version tracking, basic branching  
+  - *Development areas*: Advanced branching strategies and rebasing  
+
+- **Collaborative workflows**: Intermediate  
+  - *Strengths*: Pull requests, merge resolution, shared repositories  
+  - *Development areas*: Workflow optimisation and large-team coordination  
+
+- **GitHub Pages and publishing**: Intermediate  
+  - *Strengths*: Static site deployment, repository-based publishing  
+  - *Development areas*: Custom themes and automation  
+
+- **Understanding Git’s technical model**: Developing → Intermediate  
+  - *Strengths*: Core object model and workflow concepts  
+  - *Development areas*: Internals, performance, and advanced history rewriting  
+
+### Confidence in Version Control
+
+I am confident working independently with Git and GitHub and increasingly confident contributing within teams. I am developing the ability to explain version control concepts to others, which reinforces my own understanding and supports collaborative learning [@Baume2007].
+
+## Forward Plan
+
+### Development Plan (Next 3–12 Months)
+
+- **Months 1–3**: Develop advanced branching strategies and contribute to open-source or shared projects to gain broader exposure to collaborative workflows.
+- **Months 3–6**: Learn continuous integration and deployment (CI/CD) pipelines and begin mentoring peers in version control practices.
+- **Months 6–12**: Consolidate advanced Git usage and explore DevOps concepts to strengthen industry relevance and professional portfolio development.
+
+This forward plan aligns with professional software development expectations and supports the development of transferable collaboration and technical skills applicable across digital and interdisciplinary contexts.
+
+## References
+
+::: {#refs}
+:::

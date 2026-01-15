@@ -1,0 +1,38 @@
+---
+title: "Home"
+---
+
+# Professional e-Portfolio
+
+Welcome to my reflective e-portfolio documenting my learning journey across five key areas of academic and professional development.
+
+## About This Portfolio
+
+This portfolio represents my self-assessment and development planning in:
+
+1. **Enterprise Authoring and Presentation Tools** - Word, Excel, PowerPoint proficiency
+2. **Information Literacy** - Research, searching, and source evaluation skills
+3. **Coding and Collaboration Platforms** - Git, GitHub, and version control
+4. **Continuous Professional Development** - Networking and career progression
+5. **Responsible Use of AI** - Ethical AI integration and academic integrity
+
+Each section includes:
+- **Reflection**: What I have learned, challenges faced, and key insights
+- **Self-Assessment**: My current level of mastery and areas for growth
+- **Forward Plan**: How I will achieve full mastery and connect it to my career
+
+## Student Information
+
+- **Name**: Parminder Singh
+- **Student ID**: 25351400
+- **Module**: SQ4003 - Professional and Study Skills
+- **Module Tutor**: Kanthu Joseph Mhango
+- **Submission Deadline**: 15:00 on Thursday, 29 January 2026
+
+## Navigation
+
+Use the navigation menu above to explore each portfolio section.
+
+---
+
+**Academic Integrity Declaration**: I declare that this work is my own and meets the standards of academic integrity expected at Harper Adams University. Any AI usage has been acknowledged and used responsibly as a supportive tool only.

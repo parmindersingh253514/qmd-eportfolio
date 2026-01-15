@@ -1,0 +1,72 @@
+---
+title: "Enterprise Authoring and Presentation Tools"
+bibliography: references.bib
+---
+
+## Overview
+
+This part is a critical reflection on how I have used the Microsoft word, Excel and PowerPoint as enterprise authoring and presentation software in academic, and professional situations. It not only assesses my growing prowess in written, data-driven and visual communication, but also takes into account the growing impact of built-in artificial intelligence (AI) functionality on the formation of professional practice. The reflection is informed by scholarship on technology integration, digital literacy, and self-regulated learning in higher education [@Richardson2017; @JISC2023; @Zimmerman2002].
+
+## Reflection
+
+### What I Have Learned
+
+Through sustained academic use and coursework, I have developed foundational to intermediate proficiency across the Microsoft Office suite, aligning with recognised digital literacy frameworks that emphasise communication, information management, and collaboration skills [@JISC2023].
+
+- **Microsoft Word:** I have also understood how to format academic reports in terms of styles, headings, tables of contents, and references managers. These practices support academic writing conventions and improve clarity and consistency in formal texts, particularly in collaborative contexts [@Norton2008].
+- **Microsoft Excel:** I have trained to enter structured data, use simple and intermediate formulas (e.g. IF statements, VLOOKUP/XLOOKUP) and also learned how to use pivot tables to summarise and analyse data. These skills support evidence-based reasoning and decision-making by enabling more systematic engagement with data [@Sackett1996].
+- **Microsoft PowerPoint**: I have acquired skills on how to approach the design of a slide successfully, such as visual hierarchy, text concise, and in accordance with the expectation of the audience. These skills are essential for communicating complex ideas clearly in academic and professional settings [@Cheshire2013].
+
+The competencies have been used in some coursework submission, group projects, and presentation, which have made a difference in my better clarity, consistency, and professionalism.
+
+### AI Integration
+
+The growing adoption of AI functionality has impacted my enterprise tools usage to a great extent. Word has Microsoft Copilot which assists with drafting, summarisation, and revision, whereas Microsoft Excel contains AI-assisted applications that help to find patterns within datasets and propose methods of analysis. PowerPoint designer assists in the visual design and consistency.
+
+From an educational perspective, such tools reflect broader developments in generative AI within learning environments, offering opportunities for efficiency while raising important pedagogical and ethical considerations [@UNESCO2023; @Floridi2016]. Although AI has enhanced productivity and saved on time used on mundane chores the technology has also posed the danger of over-dependence. Research on learning and cognition suggests that excessive automation may limit deeper engagement and conceptual understanding if not used reflectively [@Bloom2020].
+
+Therefore, I have grown increasingly conscious of my application of AI as a secondary tool instead of a substitute of critical thinking, authorship, and design judgment.
+
+### Challenges and Insights
+
+Some of the major ones as indicated above involve dealing with complicated format in long word files, learning of sophisticated excel features and handling team work where differences in practices may interfere with document quality. These challenges reflect broader issues identified in collaborative academic and digital work, where technical proficiency must be matched with shared standards and communication [@Cheshire2013].
+
+Balancing automation with manual control has required reflective self-assessment, reinforcing the importance of metacognitive awareness in skill development [@Baume2007; @Zimmerman2002]. An important insight has been recognising that professional competence is not defined solely by familiarity with tools, but by the ability to apply them critically, ethically, and in contextually appropriate ways [@Creswell2018].
+
+## Self-Assessment
+
+### Current Level of Mastery
+
+**Self-assessed proficiency (novice → intermediate → advanced → expert):**
+
+- **Word**: Intermediate  
+  - *Strengths*: Document structure, referencing, collaboration tools  
+  - *Weaknesses*: Advanced layout control and long-document formatting  
+
+- **Excel**: Intermediate  
+  - *Strengths*: Data organisation, basic analysis, pivot tables  
+  - *Weaknesses*: Advanced formulas, macros, and data visualisation  
+
+- **PowerPoint**: Intermediate  
+  - *Strengths*: Clear slide design, visual consistency, audience focus  
+  - *Weaknesses*: Advanced animation and data-driven storytelling  
+
+This self-assessment aligns with reflective practice approaches that emphasise honest evaluation as a foundation for professional growth [@Baume2007].
+
+### Skills Gap
+
+To advance to the next level of proficiency, I should hone my think abilities in the Excel, ameliorate accuracy in composing lengthy internal records in word-processor, and the skill of using illustrations to express complicated data in Power point. Developing these skills supports higher-order cognitive processes, such as analysis and evaluation, as outlined in revised learning taxonomies [@Krathwohl2002].
+
+## Forward Plan
+
+The development plan will focus on sustaining the project and advancing it to the next phase.
+
+- **Short term (3-6 months)**: Refreeze advanced Word formatting skills and improve the knowledge of Excel formulas by practicing and using structured tutorials.
+- **Medium term (6-12 months)**: Build a greater level of skills in data analysis and presentation higher level charting and narrative style slide development.
+
+This forward plan reflects a growth-oriented approach to skill development [@Dweck2006] and aligns with career goals by strengthening enterprise-level digital literacy, effective communication, and evidence-informed practice. The deployment of AI tools, the subsequent continuous practice, and reflection on such tools will promote the ongoing improvement of the professional development.
+
+## References
+
+::: {#refs}
+:::

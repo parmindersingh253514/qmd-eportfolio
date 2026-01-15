@@ -1,0 +1,60 @@
+---
+title: "Responsible Use of Artificial Intelligence"
+bibliography: references.bib
+---
+
+## Overview
+
+This section reflects on my understanding of artificial intelligence (AI) in academic and professional contexts, with particular emphasis on responsible use, academic integrity, and preparation for evolving institutional and workplace AI policies [@Floridi2016; @UNESCO2023].
+
+## Reflection
+
+### What I Have Learned
+
+I have gained awareness of the features and its weaknesses of the latest AI assistants, including ChatGPT and Microsoft Copilot, and their possible usefulness in aiding learning and working endeavors. Use of these tools has demonstrated to be useful in both for efficiency and in explaining as well as the threats that come with its misuse or over use.
+
+School Environment Research Responsible Provenience use in educational institutions.
+
+Brainstorming, drafting assistance, concept explanation, code generating and data analyzing activities are some of the responsible academic uses of AI. Nevertheless, it is unacceptable to hand the work created by AI as my own without the process of learning or using the results without checking.
+
+Responsible use has an aspect of transparency. That involves recognizing AI assistance when needed and adhering to institutional disclosure and referring directions.
+
+### Academic Integrity
+
+AI contributes to the appearance of new types of threats to plagiarism, especially the generation of the text with passing off as original work. Distinguishing between AI as a support tool and AI as a content generator is essential, as academic responsibility remains with the student [@Charmaz2014]. I have also got to know that any AI-based results should be assessed critically, examined, and brought into my scope of work in an ethical way.
+
+Professional and Future Usage of AI.
+
+Looking ahead, responsible AI use will be shaped by organisational policies, professional standards, and evolving regulation [@JISC2023]. To be more precise, in the future, the need to develop AI literacy will become inevitable as it will allow using AI in a workplace consciously, ethically, and transparently.
+
+## Self-Assessment
+
+### Current AI Literacy
+
+**Self-assessed level (novice → intermediate → advanced → expert):**
+
+- Understanding AI capabilities and limitations  
+- Knowledge of university AI policies  
+- Ability to use AI responsibly  
+- Maintenance of academic integrity  
+
+I currently use AI tools selectively for idea generation, clarification, and productivity support, while ensuring compliance with academic requirements.
+
+## Forward Plan
+
+### Development Plan (Next 12 Months)
+
+- **0–3 months**: Review institutional AI guidance, practise safe and transparent use, understand declaration requirements.  
+- **3–6 months**: Apply AI critically in assignments, strengthen evaluation skills, and explore discipline-specific AI tools.  
+- **6–12 months**: Maintain up-to-date knowledge of AI developments, refine my ethical position, and prepare for professional AI use.
+
+## Key Takeaways
+
+1. AI is a powerful support tool, but responsibility and authorship remain with the user.  
+2. Transparency and academic integrity are essential when using AI in education.  
+3. Ongoing AI literacy is critical for future professional practice.
+
+## References
+
+::: {#refs}
+:::
